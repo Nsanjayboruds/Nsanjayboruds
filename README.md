@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently studying<br>
+Hi I am Nishant borude<br>
 
 
 ## 🌐 Socials:
