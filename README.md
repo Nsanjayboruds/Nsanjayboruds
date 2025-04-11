@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi I am Nishant borude<br>
+# 💫 About Me: Hi I am Nishant borude<br>
+
 
 
 ## 🌐 Socials:
