@@ -11,8 +11,7 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nsanjayboruds&theme=merko&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://streak-stats.demolab.com?user=Nsanjayboruds&theme=merko&hide_border=true)
-
-
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nsanjayboruds&theme=merko) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
