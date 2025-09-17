@@ -1,5 +1,16 @@
-# 💫 About Me: Hi I am Nishant borude<br>
+<!-- Top waving banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome Banner"/>
+</p>
 
+<!-- Typing animation below banner -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant+Sanjay+Borude;Full+Stack+Developer+%7C+Open+Source+Contributor;GSSoC+'25+%7C+OSCI+'25;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
+</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛰️ I’m currently working on an AI-powered SkillSwap platform that connects people to exchange skills via real-time chat and smart matching.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on open-source AI tools, hackathons, or creative full-stack web apps.<br><br>🤝 I’m looking for help with scaling backend APIs and integrating advanced ML models into real-time applications.<br><br>🌱 I’m currently learning GraphQL, TypeScript, and experimenting with edge computing for faster web experiences.
 
 
