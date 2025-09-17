@@ -25,6 +25,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Nsanjayboruds&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nsanjayboruds&label=👁️%20Profile%20Views&color=ff69b4&style=for-the-badge)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nsanjayboruds&icon=0&color=0)](https://visitcount.itsvg.in)
