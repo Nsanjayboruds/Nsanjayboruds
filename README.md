@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome Banner"/>
 </p> 
-
+ 
 <!-- Typing animation below banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
