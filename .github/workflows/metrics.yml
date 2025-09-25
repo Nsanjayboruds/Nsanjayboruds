@@ -1,8 +1,8 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{cron: "0 */12 * * *"}]   # Runs every 12 hours
-  workflow_dispatch:                    # Allow manual trigger
+  schedule: [{cron: "0 */12 * * *"}]  
+  workflow_dispatch:                  
 
 jobs:
   github-metrics:
@@ -11,20 +11,20 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Your Classic PAT stored in GitHub Secrets
+          
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Your GitHub username
+          
           user: Nsanjayboruds
 
-          # Template style
+        
           template: classic
 
-          # Base sections
+         
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-          # Plugins
+          
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
