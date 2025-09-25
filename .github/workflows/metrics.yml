@@ -1,10 +1,8 @@
 name: GitHub Metrics
 
 on:
-  # Runs every 12 hours
-  schedule: [{cron: "0 */12 * * *"}]
-  # Allow manual trigger
-  workflow_dispatch:
+  schedule: [{cron: "0 */12 * * *"}]   # Runs every 12 hours
+  workflow_dispatch:                    # Allow manual trigger
 
 jobs:
   github-metrics:
@@ -26,28 +24,23 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-          # Plugins -----------------------------------------------------
-          # Isometric calendar (contributions graph)
+          # Plugins
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
           plugin_languages_indepth: yes
 
-          # Stargazers
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
 
-          # Habits (commit habits)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # Follow-up (issues & PRs)
           plugin_followup: yes
           plugin_followup_sections: repositories, user
