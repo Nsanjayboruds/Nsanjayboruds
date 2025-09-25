@@ -1,1 +1,43 @@
+name: GitHub Metrics
 
+on:
+  schedule: [{ cron: "0 0 * * *" }]  # Runs once a day
+  workflow_dispatch:                  # Allow manual runs
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub username
+          user: Nsanjayboruds
+
+          # Use the PAT you stored as a GitHub secret
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Basic template
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # Plugins (you can enable/disable later as you like)
+          plugin_lines: yes
+          plugin_streak: yes
+          plugin_followup: yes
+          plugin_habits: yes
+          plugin_achievements: yes
+          plugin_topics: yes
+          plugin_languages: yes
+
+          # Languages plugin settings
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+
+          # Achievements plugin settings
+          plugin_achievements_threshold: C
+
+          # Streak plugin settings
+          plugin_streak_days: 7
+          plugin_streak_sections: current, longest
