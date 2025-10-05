@@ -28,6 +28,26 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nsanjayboruds&theme=merko&show_icons=true&hide_border=true&count_private=true) | ![GitHub Stats](https://streak-stats.demolab.com?user=Nsanjayboruds&theme=merko&hide_border=true)|
 
 
+<p>
+  <strong>Google Developer Program Member</strong>
+</p>
+
+<p>
+  <a href="https://developers.google.com/profile/u/108831666790907202776">
+    <img src="https://developers.google.com/static/profile/badges/community/forums/user/cloud/badge.svg" alt="Google Developer Badge" width="120"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/108831666790907202776">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Developer Innovator Badge 2021" width="120"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/108831666790907202776">
+    <img src="https://developers.google.com/static/profile/badges/community/firebasestudio/firebase-studio/badge.svg" alt="Firebase Studio Developer Community Badge" width="120"/>
+  </a>
+</p>
+
+
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
