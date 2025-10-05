@@ -29,8 +29,7 @@
 
 
 <p>
-  <strong>Google Developer Program Member</strong>
-</p>
+   <strong>🟢🔵🟡🔴 Google Developer Program Member</strong>
 
 <p>
   <a href="https://developers.google.com/profile/u/108831666790907202776">
