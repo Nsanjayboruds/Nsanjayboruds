@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome Banner"/>
 </p>  
   
-<!-- Typing animation below banner -->
+<!-- Typing animation below banner --> 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant+Sanjay+Borude;Full+Stack+Developer+%7C+Open+Source+Contributor;GSSoC+'25+%7C+OSCI+'25;Always+learning+new+things!" alt="Typing SVG" />
