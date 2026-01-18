@@ -11,7 +11,14 @@
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛰️ I’m currently working on an AI-powered SkillSwap platform that connects people to exchange skills via real-time chat and smart matching.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on open-source AI tools, hackathons, or creative full-stack web apps.<br><br>🤝 I’m looking for help with scaling backend APIs and integrating advanced ML models into real-time applications.<br><br>🌱 I’m currently learning GraphQL, TypeScript, and experimenting with edge computing for faster web experiences.
+🚀 Full-stack developer focused on building AI-driven, real-time web platforms.
+
+🌍 Strong advocate of **open-source software** — actively contributing to projects, reviewing PRs, fixing issues, and collaborating with developers worldwide.
+
+🧠 Passionate about backend scalability, API design, and integrating machine learning into real-time applications.
+
+🌱 Exploring TypeScript, GraphQL, and edge computing to build faster and more scalable systems.
+
 
 
 ## 🌐 Socials:
@@ -49,7 +56,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 📊 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=Nsanjayboruds&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 
