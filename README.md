@@ -56,7 +56,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📊 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=Nsanjayboruds&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 
