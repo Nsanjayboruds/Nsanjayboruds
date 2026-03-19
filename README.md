@@ -51,7 +51,15 @@
 
 
 
-
+## 🌟 Meshery Badges (Layer5)
+<p align="center">
+  <a href="https://cloud.layer5.io/user/cb904be0-425a-43f8-bee8-97fec129d9fa?tab=badges&badge=certified-meshery-contributor">
+    <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" width="180px" />
+  </a>
+  <a href="https://cloud.layer5.io/user/cb904be0-425a-43f8-bee8-97fec129d9fa?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="180px" />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
