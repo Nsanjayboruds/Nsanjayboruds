@@ -14,16 +14,13 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 Full-stack developer focused on building AI-driven, real-time web platforms.
+# About Me
 
-🌍 Strong advocate of **open-source software** — actively contributing to projects, reviewing PRs, fixing issues, and collaborating with developers worldwide.
+B.Tech 3rd-year student and full-stack developer focused on building scalable, AI-powered, and real-time web applications. Passionate about backend architecture, API development, and modern frontend technologies.
 
-🧠 Passionate about backend scalability, API design, and integrating machine learning into real-time applications.
+Active open-source contributor with experience in issue fixing, pull request reviews, feature development, and collaboration across global developer communities.
 
-🌱 Exploring TypeScript, GraphQL, and edge computing to build faster and more scalable systems.
-
-
-
+Currently exploring advanced technologies including TypeScript, GraphQL, cloud infrastructure, and edge computing to build faster and more scalable digital products.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishant-borude-554293311/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/borude_nis67705) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantborude555@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://note-folio.onrender.com/) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/nishantborude?public_mode=true)
 
