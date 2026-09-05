@@ -16,7 +16,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # About Me
 
-B.Tech 3rd-year student and full-stack developer focused on building scalable, AI-powered, and real-time web applications. Passionate about backend architecture, API development, and modern frontend technologies.
+B.Tech  student and full-stack developer focused on building scalable, AI-powered, and real-time web applications. Passionate about backend architecture, API development, and modern frontend technologies.
 
 Active open-source contributor with experience in issue fixing, pull request reviews, feature development, and collaboration across global developer communities.
 
