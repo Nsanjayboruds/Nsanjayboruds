@@ -21,28 +21,6 @@ Active Open Source Contributor with experience in feature development, bug fixin
 Currently exploring TypeScript, System Design, Docker, Cloud, and distributed systems.
 
 ---
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishant-borude-554293311/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://note-folio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:nishantborude555@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/borude_nis67705">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 | 🧩 Category | 💻 Technologies |
@@ -100,6 +78,26 @@ Currently exploring TypeScript, System Design, Docker, Cloud, and distributed sy
 
   <a href="https://cloud.layer5.io/user/cb904be0-425a-43f8-bee8-97fec129d9fa?tab=badges&badge=first-design">
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="160px"/>
+  </a>
+</p>
+
+---
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishant-borude-554293311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://note-folio.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:nishantborude555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/borude_nis67705">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
