@@ -18,7 +18,7 @@ B.Tech Computer Science student and Full-Stack Developer focused on building sca
 
 Active Open Source Contributor with experience in feature development, bug fixing, documentation, and collaborative development.
 
-Currently exploring TypeScript, System Design, Docker, Cloud, and distributed systems.
+Currently exploring TypeScript, System Design,Cloud, and distributed systems.
 
 ---
 ## 🛠️ Tech Stack
